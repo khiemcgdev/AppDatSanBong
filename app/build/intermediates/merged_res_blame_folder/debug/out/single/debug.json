@@ -1,0 +1,650 @@
+[
+    {
+        "merged": "com.example.duan1_pro1121.app-merged_res-5:/drawable_tablayout_form_background.xml.flat",
+        "source": "com.example.duan1_pro1121.app-main-7:/drawable/tablayout_form_background.xml"
+    },
+    {
+        "merged": "com.example.duan1_pro1121.app-merged_res-5:/xml_data_extraction_rules.xml.flat",
+        "source": "com.example.duan1_pro1121.app-main-7:/xml/data_extraction_rules.xml"
+    },
+    {
+        "merged": "com.example.duan1_pro1121.app-merged_res-5:/layout_item_notification_user.xml.flat",
+        "source": "com.example.duan1_pro1121.app-main-7:/layout/item_notification_user.xml"
+    },
+    {
+        "merged": "com.example.duan1_pro1121.app-merged_res-5:/color_edt_color.xml.flat",
+        "source": "com.example.duan1_pro1121.app-main-7:/color/edt_color.xml"
+    },
+    {
+        "merged": "com.example.duan1_pro1121.app-merged_res-5:/drawable_ic_bank.xml.flat",
+        "source": "com.example.duan1_pro1121.app-main-7:/drawable/ic_bank.xml"
+    },
+    {
+        "merged": "com.example.duan1_pro1121.app-merged_res-5:/layout_activity_form.xml.flat",
+        "source": "com.example.duan1_pro1121.app-main-7:/layout/activity_form.xml"
+    },
+    {
+        "merged": "com.example.duan1_pro1121.app-merged_res-5:/raw_complete_anim.json.flat",
+        "source": "com.example.duan1_pro1121.app-main-7:/raw/complete_anim.json"
+    },
+    {
+        "merged": "com.example.duan1_pro1121.app-merged_res-5:/drawable_ic_password.xml.flat",
+        "source": "com.example.duan1_pro1121.app-main-7:/drawable/ic_password.xml"
+    },
+    {
+        "merged": "com.example.duan1_pro1121.app-merged_res-5:/layout_item_recy_datsan.xml.flat",
+        "source": "com.example.duan1_pro1121.app-main-7:/layout/item_recy_datsan.xml"
+    },
+    {
+        "merged": "com.example.duan1_pro1121.app-merged_res-5:/layout_fragment_history.xml.flat",
+        "source": "com.example.duan1_pro1121.app-main-7:/layout/fragment_history.xml"
+    },
+    {
+        "merged": "com.example.duan1_pro1121.app-merged_res-5:/layout_header_navigationview.xml.flat",
+        "source": "com.example.duan1_pro1121.app-main-7:/layout/header_navigationview.xml"
+    },
+    {
+        "merged": "com.example.duan1_pro1121.app-merged_res-5:/layout_activity_user_main.xml.flat",
+        "source": "com.example.duan1_pro1121.app-main-7:/layout/activity_user_main.xml"
+    },
+    {
+        "merged": "com.example.duan1_pro1121.app-merged_res-5:/drawable_background_item_spinner.xml.flat",
+        "source": "com.example.duan1_pro1121.app-main-7:/drawable/background_item_spinner.xml"
+    },
+    {
+        "merged": "com.example.duan1_pro1121.app-merged_res-5:/drawable_ic_pitch.xml.flat",
+        "source": "com.example.duan1_pro1121.app-main-7:/drawable/ic_pitch.xml"
+    },
+    {
+        "merged": "com.example.duan1_pro1121.app-merged_res-5:/layout_fragment_login.xml.flat",
+        "source": "com.example.duan1_pro1121.app-main-7:/layout/fragment_login.xml"
+    },
+    {
+        "merged": "com.example.duan1_pro1121.app-merged_res-5:/layout_fragment_thong_bao_admin.xml.flat",
+        "source": "com.example.duan1_pro1121.app-main-7:/layout/fragment_thong_bao_admin.xml"
+    },
+    {
+        "merged": "com.example.duan1_pro1121.app-merged_res-5:/layout_activity_change_profile.xml.flat",
+        "source": "com.example.duan1_pro1121.app-main-7:/layout/activity_change_profile.xml"
+    },
+    {
+        "merged": "com.example.duan1_pro1121.app-merged_res-5:/drawable_ic_phone.xml.flat",
+        "source": "com.example.duan1_pro1121.app-main-7:/drawable/ic_phone.xml"
+    },
+    {
+        "merged": "com.example.duan1_pro1121.app-merged_res-5:/drawable_ic_show_info.png.flat",
+        "source": "com.example.duan1_pro1121.app-main-7:/drawable/ic_show_info.png"
+    },
+    {
+        "merged": "com.example.duan1_pro1121.app-merged_res-5:/mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "com.example.duan1_pro1121.app-main-7:/mipmap-xhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.duan1_pro1121.app-merged_res-5:/drawable_ic_coin.png.flat",
+        "source": "com.example.duan1_pro1121.app-main-7:/drawable/ic_coin.png"
+    },
+    {
+        "merged": "com.example.duan1_pro1121.app-merged_res-5:/layout_dialog_update_customer.xml.flat",
+        "source": "com.example.duan1_pro1121.app-main-7:/layout/dialog_update_customer.xml"
+    },
+    {
+        "merged": "com.example.duan1_pro1121.app-merged_res-5:/menu_navi_menu.xml.flat",
+        "source": "com.example.duan1_pro1121.app-main-7:/menu/navi_menu.xml"
+    },
+    {
+        "merged": "com.example.duan1_pro1121.app-merged_res-5:/layout_activity_show_ca_thi_dau.xml.flat",
+        "source": "com.example.duan1_pro1121.app-main-7:/layout/activity_show_ca_thi_dau.xml"
+    },
+    {
+        "merged": "com.example.duan1_pro1121.app-merged_res-5:/drawable_order.png.flat",
+        "source": "com.example.duan1_pro1121.app-main-7:/drawable/order.png"
+    },
+    {
+        "merged": "com.example.duan1_pro1121.app-merged_res-5:/drawable_toggle_custom.xml.flat",
+        "source": "com.example.duan1_pro1121.app-main-7:/drawable/toggle_custom.xml"
+    },
+    {
+        "merged": "com.example.duan1_pro1121.app-merged_res-5:/layout_dialog_add_thongbao.xml.flat",
+        "source": "com.example.duan1_pro1121.app-main-7:/layout/dialog_add_thongbao.xml"
+    },
+    {
+        "merged": "com.example.duan1_pro1121.app-merged_res-5:/drawable_soldout_png.jpg.flat",
+        "source": "com.example.duan1_pro1121.app-main-7:/drawable/soldout_png.jpg"
+    },
+    {
+        "merged": "com.example.duan1_pro1121.app-merged_res-5:/drawable_background_tv1.xml.flat",
+        "source": "com.example.duan1_pro1121.app-main-7:/drawable/background_tv1.xml"
+    },
+    {
+        "merged": "com.example.duan1_pro1121.app-merged_res-5:/layout_fragment_nhan_vien.xml.flat",
+        "source": "com.example.duan1_pro1121.app-main-7:/layout/fragment_nhan_vien.xml"
+    },
+    {
+        "merged": "com.example.duan1_pro1121.app-merged_res-5:/layout_activity_category_manager.xml.flat",
+        "source": "com.example.duan1_pro1121.app-main-7:/layout/activity_category_manager.xml"
+    },
+    {
+        "merged": "com.example.duan1_pro1121.app-merged_res-5:/drawable_viewpager_form_background.xml.flat",
+        "source": "com.example.duan1_pro1121.app-main-7:/drawable/viewpager_form_background.xml"
+    },
+    {
+        "merged": "com.example.duan1_pro1121.app-merged_res-5:/raw_ball.json.flat",
+        "source": "com.example.duan1_pro1121.app-main-7:/raw/ball.json"
+    },
+    {
+        "merged": "com.example.duan1_pro1121.app-merged_res-5:/drawable_btn_background.xml.flat",
+        "source": "com.example.duan1_pro1121.app-main-7:/drawable/btn_background.xml"
+    },
+    {
+        "merged": "com.example.duan1_pro1121.app-merged_res-5:/layout_item_salary_admin.xml.flat",
+        "source": "com.example.duan1_pro1121.app-main-7:/layout/item_salary_admin.xml"
+    },
+    {
+        "merged": "com.example.duan1_pro1121.app-merged_res-5:/drawable_ic_gmail.xml.flat",
+        "source": "com.example.duan1_pro1121.app-main-7:/drawable/ic_gmail.xml"
+    },
+    {
+        "merged": "com.example.duan1_pro1121.app-merged_res-5:/menu_user_menu_bottom_navi.xml.flat",
+        "source": "com.example.duan1_pro1121.app-main-7:/menu/user_menu_bottom_navi.xml"
+    },
+    {
+        "merged": "com.example.duan1_pro1121.app-merged_res-5:/drawable_ic_dola.png.flat",
+        "source": "com.example.duan1_pro1121.app-main-7:/drawable/ic_dola.png"
+    },
+    {
+        "merged": "com.example.duan1_pro1121.app-merged_res-5:/drawable_ic_user_circle.xml.flat",
+        "source": "com.example.duan1_pro1121.app-main-7:/drawable/ic_user_circle.xml"
+    },
+    {
+        "merged": "com.example.duan1_pro1121.app-merged_res-5:/layout_fragment_dich_vu_frgment.xml.flat",
+        "source": "com.example.duan1_pro1121.app-main-7:/layout/fragment_dich_vu_frgment.xml"
+    },
+    {
+        "merged": "com.example.duan1_pro1121.app-merged_res-5:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "com.example.duan1_pro1121.app-main-7:/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "com.example.duan1_pro1121.app-merged_res-5:/drawable_toggle_state_datra.xml.flat",
+        "source": "com.example.duan1_pro1121.app-main-7:/drawable/toggle_state_datra.xml"
+    },
+    {
+        "merged": "com.example.duan1_pro1121.app-merged_res-5:/drawable_x_icon.png.flat",
+        "source": "com.example.duan1_pro1121.app-main-7:/drawable/x_icon.png"
+    },
+    {
+        "merged": "com.example.duan1_pro1121.app-merged_res-5:/layout_item_recy_pitch.xml.flat",
+        "source": "com.example.duan1_pro1121.app-main-7:/layout/item_recy_pitch.xml"
+    },
+    {
+        "merged": "com.example.duan1_pro1121.app-merged_res-5:/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "com.example.duan1_pro1121.app-main-7:/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "com.example.duan1_pro1121.app-merged_res-5:/layout_line_spinner_loai_nv.xml.flat",
+        "source": "com.example.duan1_pro1121.app-main-7:/layout/line_spinner_loai_nv.xml"
+    },
+    {
+        "merged": "com.example.duan1_pro1121.app-merged_res-5:/layout_item_accept.xml.flat",
+        "source": "com.example.duan1_pro1121.app-main-7:/layout/item_accept.xml"
+    },
+    {
+        "merged": "com.example.duan1_pro1121.app-merged_res-5:/layout_item_recyler_list_service.xml.flat",
+        "source": "com.example.duan1_pro1121.app-main-7:/layout/item_recyler_list_service.xml"
+    },
+    {
+        "merged": "com.example.duan1_pro1121.app-merged_res-5:/drawable_logo2.png.flat",
+        "source": "com.example.duan1_pro1121.app-main-7:/drawable/logo2.png"
+    },
+    {
+        "merged": "com.example.duan1_pro1121.app-merged_res-5:/drawable_toggle_state_chuatra.xml.flat",
+        "source": "com.example.duan1_pro1121.app-main-7:/drawable/toggle_state_chuatra.xml"
+    },
+    {
+        "merged": "com.example.duan1_pro1121.app-merged_res-5:/layout_item_service.xml.flat",
+        "source": "com.example.duan1_pro1121.app-main-7:/layout/item_service.xml"
+    },
+    {
+        "merged": "com.example.duan1_pro1121.app-merged_res-5:/drawable_employes.png.flat",
+        "source": "com.example.duan1_pro1121.app-main-7:/drawable/employes.png"
+    },
+    {
+        "merged": "com.example.duan1_pro1121.app-merged_res-5:/layout_datsan_chitiet_layout.xml.flat",
+        "source": "com.example.duan1_pro1121.app-main-7:/layout/datsan_chitiet_layout.xml"
+    },
+    {
+        "merged": "com.example.duan1_pro1121.app-merged_res-5:/layout_fragment_time.xml.flat",
+        "source": "com.example.duan1_pro1121.app-main-7:/layout/fragment_time.xml"
+    },
+    {
+        "merged": "com.example.duan1_pro1121.app-merged_res-5:/layout_activity_list_service.xml.flat",
+        "source": "com.example.duan1_pro1121.app-main-7:/layout/activity_list_service.xml"
+    },
+    {
+        "merged": "com.example.duan1_pro1121.app-merged_res-5:/layout_fragment_phieu_thong_tin.xml.flat",
+        "source": "com.example.duan1_pro1121.app-main-7:/layout/fragment_phieu_thong_tin.xml"
+    },
+    {
+        "merged": "com.example.duan1_pro1121.app-merged_res-5:/layout_fragment_request_buy.xml.flat",
+        "source": "com.example.duan1_pro1121.app-main-7:/layout/fragment_request_buy.xml"
+    },
+    {
+        "merged": "com.example.duan1_pro1121.app-merged_res-5:/mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "com.example.duan1_pro1121.app-main-7:/mipmap-hdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.duan1_pro1121.app-merged_res-5:/layout_fragment_thong_bao.xml.flat",
+        "source": "com.example.duan1_pro1121.app-main-7:/layout/fragment_thong_bao.xml"
+    },
+    {
+        "merged": "com.example.duan1_pro1121.app-merged_res-5:/drawable_ic_add.xml.flat",
+        "source": "com.example.duan1_pro1121.app-main-7:/drawable/ic_add.xml"
+    },
+    {
+        "merged": "com.example.duan1_pro1121.app-merged_res-5:/drawable_ic_launcher_background.xml.flat",
+        "source": "com.example.duan1_pro1121.app-main-7:/drawable/ic_launcher_background.xml"
+    },
+    {
+        "merged": "com.example.duan1_pro1121.app-merged_res-5:/drawable_bg_circle_img.xml.flat",
+        "source": "com.example.duan1_pro1121.app-main-7:/drawable/bg_circle_img.xml"
+    },
+    {
+        "merged": "com.example.duan1_pro1121.app-merged_res-5:/drawable_tab_form_background.xml.flat",
+        "source": "com.example.duan1_pro1121.app-main-7:/drawable/tab_form_background.xml"
+    },
+    {
+        "merged": "com.example.duan1_pro1121.app-merged_res-5:/mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.duan1_pro1121.app-main-7:/mipmap-xxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.duan1_pro1121.app-merged_res-5:/drawable_border_item_naptien_2.xml.flat",
+        "source": "com.example.duan1_pro1121.app-main-7:/drawable/border_item_naptien_2.xml"
+    },
+    {
+        "merged": "com.example.duan1_pro1121.app-merged_res-5:/layout_item_history_buy.xml.flat",
+        "source": "com.example.duan1_pro1121.app-main-7:/layout/item_history_buy.xml"
+    },
+    {
+        "merged": "com.example.duan1_pro1121.app-merged_res-5:/layout_dialog_add_pitch.xml.flat",
+        "source": "com.example.duan1_pro1121.app-main-7:/layout/dialog_add_pitch.xml"
+    },
+    {
+        "merged": "com.example.duan1_pro1121.app-merged_res-5:/layout_activity_user_dat_san_chi_tiet.xml.flat",
+        "source": "com.example.duan1_pro1121.app-main-7:/layout/activity_user_dat_san_chi_tiet.xml"
+    },
+    {
+        "merged": "com.example.duan1_pro1121.app-merged_res-5:/layout_activity_salary_details_admin.xml.flat",
+        "source": "com.example.duan1_pro1121.app-main-7:/layout/activity_salary_details_admin.xml"
+    },
+    {
+        "merged": "com.example.duan1_pro1121.app-merged_res-5:/drawable_statistical.png.flat",
+        "source": "com.example.duan1_pro1121.app-main-7:/drawable/statistical.png"
+    },
+    {
+        "merged": "com.example.duan1_pro1121.app-merged_res-5:/layout_dialog_add_khachhang.xml.flat",
+        "source": "com.example.duan1_pro1121.app-main-7:/layout/dialog_add_khachhang.xml"
+    },
+    {
+        "merged": "com.example.duan1_pro1121.app-merged_res-5:/layout_activity_change_pass.xml.flat",
+        "source": "com.example.duan1_pro1121.app-main-7:/layout/activity_change_pass.xml"
+    },
+    {
+        "merged": "com.example.duan1_pro1121.app-merged_res-5:/drawable_back_ic2.png.flat",
+        "source": "com.example.duan1_pro1121.app-main-7:/drawable/back_ic2.png"
+    },
+    {
+        "merged": "com.example.duan1_pro1121.app-merged_res-5:/drawable_ic_date.png.flat",
+        "source": "com.example.duan1_pro1121.app-main-7:/drawable/ic_date.png"
+    },
+    {
+        "merged": "com.example.duan1_pro1121.app-merged_res-5:/raw_loading.json.flat",
+        "source": "com.example.duan1_pro1121.app-main-7:/raw/loading.json"
+    },
+    {
+        "merged": "com.example.duan1_pro1121.app-merged_res-5:/layout_activity_nap_tien.xml.flat",
+        "source": "com.example.duan1_pro1121.app-main-7:/layout/activity_nap_tien.xml"
+    },
+    {
+        "merged": "com.example.duan1_pro1121.app-merged_res-5:/drawable_logout.png.flat",
+        "source": "com.example.duan1_pro1121.app-main-7:/drawable/logout.png"
+    },
+    {
+        "merged": "com.example.duan1_pro1121.app-merged_res-5:/drawable_border_item_naptien.xml.flat",
+        "source": "com.example.duan1_pro1121.app-main-7:/drawable/border_item_naptien.xml"
+    },
+    {
+        "merged": "com.example.duan1_pro1121.app-merged_res-5:/layout_activity_select_type.xml.flat",
+        "source": "com.example.duan1_pro1121.app-main-7:/layout/activity_select_type.xml"
+    },
+    {
+        "merged": "com.example.duan1_pro1121.app-merged_res-5:/drawable_ic_history.xml.flat",
+        "source": "com.example.duan1_pro1121.app-main-7:/drawable/ic_history.xml"
+    },
+    {
+        "merged": "com.example.duan1_pro1121.app-merged_res-5:/layout_item_salary_staff.xml.flat",
+        "source": "com.example.duan1_pro1121.app-main-7:/layout/item_salary_staff.xml"
+    },
+    {
+        "merged": "com.example.duan1_pro1121.app-merged_res-5:/layout_fragment_signup.xml.flat",
+        "source": "com.example.duan1_pro1121.app-main-7:/layout/fragment_signup.xml"
+    },
+    {
+        "merged": "com.example.duan1_pro1121.app-merged_res-5:/layout_item_cathidau.xml.flat",
+        "source": "com.example.duan1_pro1121.app-main-7:/layout/item_cathidau.xml"
+    },
+    {
+        "merged": "com.example.duan1_pro1121.app-merged_res-5:/layout_dialog_doi_mat_khau.xml.flat",
+        "source": "com.example.duan1_pro1121.app-main-7:/layout/dialog_doi_mat_khau.xml"
+    },
+    {
+        "merged": "com.example.duan1_pro1121.app-merged_res-5:/layout_item_history_order_user.xml.flat",
+        "source": "com.example.duan1_pro1121.app-main-7:/layout/item_history_order_user.xml"
+    },
+    {
+        "merged": "com.example.duan1_pro1121.app-merged_res-5:/raw_user_anim.json.flat",
+        "source": "com.example.duan1_pro1121.app-main-7:/raw/user_anim.json"
+    },
+    {
+        "merged": "com.example.duan1_pro1121.app-merged_res-5:/layout_dialog_add_and_update_service.xml.flat",
+        "source": "com.example.duan1_pro1121.app-main-7:/layout/dialog_add_and_update_service.xml"
+    },
+    {
+        "merged": "com.example.duan1_pro1121.app-merged_res-5:/layout_dialog_update_pitch_category.xml.flat",
+        "source": "com.example.duan1_pro1121.app-main-7:/layout/dialog_update_pitch_category.xml"
+    },
+    {
+        "merged": "com.example.duan1_pro1121.app-merged_res-5:/drawable_ic_admin.xml.flat",
+        "source": "com.example.duan1_pro1121.app-main-7:/drawable/ic_admin.xml"
+    },
+    {
+        "merged": "com.example.duan1_pro1121.app-merged_res-5:/layout_dialog_loading.xml.flat",
+        "source": "com.example.duan1_pro1121.app-main-7:/layout/dialog_loading.xml"
+    },
+    {
+        "merged": "com.example.duan1_pro1121.app-merged_res-5:/drawable-v24_white_background.xml.flat",
+        "source": "com.example.duan1_pro1121.app-main-7:/drawable-v24/white_background.xml"
+    },
+    {
+        "merged": "com.example.duan1_pro1121.app-merged_res-5:/drawable_plus.png.flat",
+        "source": "com.example.duan1_pro1121.app-main-7:/drawable/plus.png"
+    },
+    {
+        "merged": "com.example.duan1_pro1121.app-merged_res-5:/drawable_ic_screen.xml.flat",
+        "source": "com.example.duan1_pro1121.app-main-7:/drawable/ic_screen.xml"
+    },
+    {
+        "merged": "com.example.duan1_pro1121.app-merged_res-5:/layout_activity_nap_tien2.xml.flat",
+        "source": "com.example.duan1_pro1121.app-main-7:/layout/activity_nap_tien2.xml"
+    },
+    {
+        "merged": "com.example.duan1_pro1121.app-merged_res-5:/drawable_icon_buy_history.png.flat",
+        "source": "com.example.duan1_pro1121.app-main-7:/drawable/icon_buy_history.png"
+    },
+    {
+        "merged": "com.example.duan1_pro1121.app-merged_res-5:/layout_activity_splash.xml.flat",
+        "source": "com.example.duan1_pro1121.app-main-7:/layout/activity_splash.xml"
+    },
+    {
+        "merged": "com.example.duan1_pro1121.app-merged_res-5:/anim_anim_down_to_up.xml.flat",
+        "source": "com.example.duan1_pro1121.app-main-7:/anim/anim_down_to_up.xml"
+    },
+    {
+        "merged": "com.example.duan1_pro1121.app-merged_res-5:/xml_backup_rules.xml.flat",
+        "source": "com.example.duan1_pro1121.app-main-7:/xml/backup_rules.xml"
+    },
+    {
+        "merged": "com.example.duan1_pro1121.app-merged_res-5:/drawable_ic_status.xml.flat",
+        "source": "com.example.duan1_pro1121.app-main-7:/drawable/ic_status.xml"
+    },
+    {
+        "merged": "com.example.duan1_pro1121.app-merged_res-5:/layout_activity_show_details_statistical.xml.flat",
+        "source": "com.example.duan1_pro1121.app-main-7:/layout/activity_show_details_statistical.xml"
+    },
+    {
+        "merged": "com.example.duan1_pro1121.app-merged_res-5:/raw_ball_anim.json.flat",
+        "source": "com.example.duan1_pro1121.app-main-7:/raw/ball_anim.json"
+    },
+    {
+        "merged": "com.example.duan1_pro1121.app-merged_res-5:/drawable_ic_time.xml.flat",
+        "source": "com.example.duan1_pro1121.app-main-7:/drawable/ic_time.xml"
+    },
+    {
+        "merged": "com.example.duan1_pro1121.app-merged_res-5:/color_tab_form_color.xml.flat",
+        "source": "com.example.duan1_pro1121.app-main-7:/color/tab_form_color.xml"
+    },
+    {
+        "merged": "com.example.duan1_pro1121.app-merged_res-5:/drawable_ic_circle_check.xml.flat",
+        "source": "com.example.duan1_pro1121.app-main-7:/drawable/ic_circle_check.xml"
+    },
+    {
+        "merged": "com.example.duan1_pro1121.app-merged_res-5:/layout_fragment_khach_hang.xml.flat",
+        "source": "com.example.duan1_pro1121.app-main-7:/layout/fragment_khach_hang.xml"
+    },
+    {
+        "merged": "com.example.duan1_pro1121.app-merged_res-5:/drawable_back_ic.png.flat",
+        "source": "com.example.duan1_pro1121.app-main-7:/drawable/back_ic.png"
+    },
+    {
+        "merged": "com.example.duan1_pro1121.app-merged_res-5:/layout_line_spinner_loai_nv_dropdown.xml.flat",
+        "source": "com.example.duan1_pro1121.app-main-7:/layout/line_spinner_loai_nv_dropdown.xml"
+    },
+    {
+        "merged": "com.example.duan1_pro1121.app-merged_res-5:/drawable_ic_edit.xml.flat",
+        "source": "com.example.duan1_pro1121.app-main-7:/drawable/ic_edit.xml"
+    },
+    {
+        "merged": "com.example.duan1_pro1121.app-merged_res-5:/layout_item_recy_loaisan.xml.flat",
+        "source": "com.example.duan1_pro1121.app-main-7:/layout/item_recy_loaisan.xml"
+    },
+    {
+        "merged": "com.example.duan1_pro1121.app-merged_res-5:/layout_item_manager.xml.flat",
+        "source": "com.example.duan1_pro1121.app-main-7:/layout/item_manager.xml"
+    },
+    {
+        "merged": "com.example.duan1_pro1121.app-merged_res-5:/drawable_ic_notification.xml.flat",
+        "source": "com.example.duan1_pro1121.app-main-7:/drawable/ic_notification.xml"
+    },
+    {
+        "merged": "com.example.duan1_pro1121.app-merged_res-5:/layout_fragment_san_bong.xml.flat",
+        "source": "com.example.duan1_pro1121.app-main-7:/layout/fragment_san_bong.xml"
+    },
+    {
+        "merged": "com.example.duan1_pro1121.app-merged_res-5:/raw_admin_anim.json.flat",
+        "source": "com.example.duan1_pro1121.app-main-7:/raw/admin_anim.json"
+    },
+    {
+        "merged": "com.example.duan1_pro1121.app-merged_res-5:/drawable_stadium.png.flat",
+        "source": "com.example.duan1_pro1121.app-main-7:/drawable/stadium.png"
+    },
+    {
+        "merged": "com.example.duan1_pro1121.app-merged_res-5:/layout_activity_history.xml.flat",
+        "source": "com.example.duan1_pro1121.app-main-7:/layout/activity_history.xml"
+    },
+    {
+        "merged": "com.example.duan1_pro1121.app-merged_res-5:/drawable_user_img.png.flat",
+        "source": "com.example.duan1_pro1121.app-main-7:/drawable/user_img.png"
+    },
+    {
+        "merged": "com.example.duan1_pro1121.app-merged_res-5:/drawable_logo.png.flat",
+        "source": "com.example.duan1_pro1121.app-main-7:/drawable/logo.png"
+    },
+    {
+        "merged": "com.example.duan1_pro1121.app-merged_res-5:/drawable_ic_down.png.flat",
+        "source": "com.example.duan1_pro1121.app-main-7:/drawable/ic_down.png"
+    },
+    {
+        "merged": "com.example.duan1_pro1121.app-merged_res-5:/drawable_v_ic.png.flat",
+        "source": "com.example.duan1_pro1121.app-main-7:/drawable/v_ic.png"
+    },
+    {
+        "merged": "com.example.duan1_pro1121.app-merged_res-5:/drawable_ic_address.xml.flat",
+        "source": "com.example.duan1_pro1121.app-main-7:/drawable/ic_address.xml"
+    },
+    {
+        "merged": "com.example.duan1_pro1121.app-merged_res-5:/drawable_ic_money.xml.flat",
+        "source": "com.example.duan1_pro1121.app-main-7:/drawable/ic_money.xml"
+    },
+    {
+        "merged": "com.example.duan1_pro1121.app-merged_res-5:/drawable_custommer.png.flat",
+        "source": "com.example.duan1_pro1121.app-main-7:/drawable/custommer.png"
+    },
+    {
+        "merged": "com.example.duan1_pro1121.app-merged_res-5:/drawable_ic_add_gray.xml.flat",
+        "source": "com.example.duan1_pro1121.app-main-7:/drawable/ic_add_gray.xml"
+    },
+    {
+        "merged": "com.example.duan1_pro1121.app-merged_res-5:/drawable_edt_background.xml.flat",
+        "source": "com.example.duan1_pro1121.app-main-7:/drawable/edt_background.xml"
+    },
+    {
+        "merged": "com.example.duan1_pro1121.app-merged_res-5:/drawable-anydpi-v24_ic_launcher_foreground.xml.flat",
+        "source": "com.example.duan1_pro1121.app-pngs-0:/drawable-anydpi-v24/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "com.example.duan1_pro1121.app-merged_res-5:/mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "com.example.duan1_pro1121.app-main-7:/mipmap-xxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.duan1_pro1121.app-merged_res-5:/mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "com.example.duan1_pro1121.app-main-7:/mipmap-xxxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.duan1_pro1121.app-merged_res-5:/drawable_service.png.flat",
+        "source": "com.example.duan1_pro1121.app-main-7:/drawable/service.png"
+    },
+    {
+        "merged": "com.example.duan1_pro1121.app-merged_res-5:/drawable_ic_person_search.xml.flat",
+        "source": "com.example.duan1_pro1121.app-main-7:/drawable/ic_person_search.xml"
+    },
+    {
+        "merged": "com.example.duan1_pro1121.app-merged_res-5:/layout_activity_salary_details_staff.xml.flat",
+        "source": "com.example.duan1_pro1121.app-main-7:/layout/activity_salary_details_staff.xml"
+    },
+    {
+        "merged": "com.example.duan1_pro1121.app-merged_res-5:/drawable_item_navi_background.xml.flat",
+        "source": "com.example.duan1_pro1121.app-main-7:/drawable/item_navi_background.xml"
+    },
+    {
+        "merged": "com.example.duan1_pro1121.app-merged_res-5:/mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "com.example.duan1_pro1121.app-main-7:/mipmap-mdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.duan1_pro1121.app-merged_res-5:/drawable_ic_card.jpg.flat",
+        "source": "com.example.duan1_pro1121.app-main-7:/drawable/ic_card.jpg"
+    },
+    {
+        "merged": "com.example.duan1_pro1121.app-merged_res-5:/mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.duan1_pro1121.app-main-7:/mipmap-mdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.duan1_pro1121.app-merged_res-5:/drawable_bg2.jpg.flat",
+        "source": "com.example.duan1_pro1121.app-main-7:/drawable/bg2.jpg"
+    },
+    {
+        "merged": "com.example.duan1_pro1121.app-merged_res-5:/layout_item_khachhang.xml.flat",
+        "source": "com.example.duan1_pro1121.app-main-7:/layout/item_khachhang.xml"
+    },
+    {
+        "merged": "com.example.duan1_pro1121.app-merged_res-5:/layout_fragment_dat_san.xml.flat",
+        "source": "com.example.duan1_pro1121.app-main-7:/layout/fragment_dat_san.xml"
+    },
+    {
+        "merged": "com.example.duan1_pro1121.app-merged_res-5:/drawable_ic_cancel_gray.xml.flat",
+        "source": "com.example.duan1_pro1121.app-main-7:/drawable/ic_cancel_gray.xml"
+    },
+    {
+        "merged": "com.example.duan1_pro1121.app-merged_res-5:/color_item_text_color.xml.flat",
+        "source": "com.example.duan1_pro1121.app-main-7:/color/item_text_color.xml"
+    },
+    {
+        "merged": "com.example.duan1_pro1121.app-merged_res-5:/layout_dialog_add_loai_nv.xml.flat",
+        "source": "com.example.duan1_pro1121.app-main-7:/layout/dialog_add_loai_nv.xml"
+    },
+    {
+        "merged": "com.example.duan1_pro1121.app-merged_res-5:/layout_activity_profile.xml.flat",
+        "source": "com.example.duan1_pro1121.app-main-7:/layout/activity_profile.xml"
+    },
+    {
+        "merged": "com.example.duan1_pro1121.app-merged_res-5:/mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.duan1_pro1121.app-main-7:/mipmap-xxxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.duan1_pro1121.app-merged_res-5:/drawable_ic_menu.xml.flat",
+        "source": "com.example.duan1_pro1121.app-main-7:/drawable/ic_menu.xml"
+    },
+    {
+        "merged": "com.example.duan1_pro1121.app-merged_res-5:/drawable_note.png.flat",
+        "source": "com.example.duan1_pro1121.app-main-7:/drawable/note.png"
+    },
+    {
+        "merged": "com.example.duan1_pro1121.app-merged_res-5:/layout_item_loainv.xml.flat",
+        "source": "com.example.duan1_pro1121.app-main-7:/layout/item_loainv.xml"
+    },
+    {
+        "merged": "com.example.duan1_pro1121.app-merged_res-5:/drawable_ic_avatar.png.flat",
+        "source": "com.example.duan1_pro1121.app-main-7:/drawable/ic_avatar.png"
+    },
+    {
+        "merged": "com.example.duan1_pro1121.app-merged_res-5:/layout_item_order.xml.flat",
+        "source": "com.example.duan1_pro1121.app-main-7:/layout/item_order.xml"
+    },
+    {
+        "merged": "com.example.duan1_pro1121.app-merged_res-5:/drawable_minus.png.flat",
+        "source": "com.example.duan1_pro1121.app-main-7:/drawable/minus.png"
+    },
+    {
+        "merged": "com.example.duan1_pro1121.app-merged_res-5:/layout_fragment_customer_activity.xml.flat",
+        "source": "com.example.duan1_pro1121.app-main-7:/layout/fragment_customer_activity.xml"
+    },
+    {
+        "merged": "com.example.duan1_pro1121.app-merged_res-5:/drawable_src_img_time.xml.flat",
+        "source": "com.example.duan1_pro1121.app-main-7:/drawable/src_img_time.xml"
+    },
+    {
+        "merged": "com.example.duan1_pro1121.app-merged_res-5:/layout_activity_main.xml.flat",
+        "source": "com.example.duan1_pro1121.app-main-7:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.example.duan1_pro1121.app-merged_res-5:/layout_fragment_man_hinh_ca_nhan.xml.flat",
+        "source": "com.example.duan1_pro1121.app-main-7:/layout/fragment_man_hinh_ca_nhan.xml"
+    },
+    {
+        "merged": "com.example.duan1_pro1121.app-merged_res-5:/mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.duan1_pro1121.app-main-7:/mipmap-xhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.duan1_pro1121.app-merged_res-5:/raw_mobie_app.json.flat",
+        "source": "com.example.duan1_pro1121.app-main-7:/raw/mobie_app.json"
+    },
+    {
+        "merged": "com.example.duan1_pro1121.app-merged_res-5:/drawable_ic_complete.xml.flat",
+        "source": "com.example.duan1_pro1121.app-main-7:/drawable/ic_complete.xml"
+    },
+    {
+        "merged": "com.example.duan1_pro1121.app-merged_res-5:/layout_item_recy_naptien.xml.flat",
+        "source": "com.example.duan1_pro1121.app-main-7:/layout/item_recy_naptien.xml"
+    },
+    {
+        "merged": "com.example.duan1_pro1121.app-merged_res-5:/mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.duan1_pro1121.app-main-7:/mipmap-hdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.duan1_pro1121.app-merged_res-5:/drawable_ic_cancel.xml.flat",
+        "source": "com.example.duan1_pro1121.app-main-7:/drawable/ic_cancel.xml"
+    },
+    {
+        "merged": "com.example.duan1_pro1121.app-merged_res-5:/layout_activity_category_pitch.xml.flat",
+        "source": "com.example.duan1_pro1121.app-main-7:/layout/activity_category_pitch.xml"
+    },
+    {
+        "merged": "com.example.duan1_pro1121.app-merged_res-5:/layout_item_thongbao_admin.xml.flat",
+        "source": "com.example.duan1_pro1121.app-main-7:/layout/item_thongbao_admin.xml"
+    },
+    {
+        "merged": "com.example.duan1_pro1121.app-merged_res-5:/layout_fragment_thong_ke_frgment.xml.flat",
+        "source": "com.example.duan1_pro1121.app-main-7:/layout/fragment_thong_ke_frgment.xml"
+    },
+    {
+        "merged": "com.example.duan1_pro1121.app-merged_res-5:/layout_dialog_add_nv.xml.flat",
+        "source": "com.example.duan1_pro1121.app-main-7:/layout/dialog_add_nv.xml"
+    }
+]
